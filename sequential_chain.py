@@ -4,7 +4,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser 
 
 load_dotenv()
- 
+
 prompt1 = PromptTemplate(
     template='Generate a detailed report on {topic}',
     input_variables=['topic']

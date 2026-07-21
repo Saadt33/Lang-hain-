@@ -20,7 +20,7 @@ These examples showcase how to build AI workflows using prompts, language models
 - OpenAI GPT Models
 - Anthropic Claude Models
 - LCEL (LangChain Expression Language)
-- Pydantic
+- Pydantic 
 - dotenv
 
 ---

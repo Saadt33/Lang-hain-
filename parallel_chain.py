@@ -7,7 +7,7 @@ from langchain.schema.runnable import RunnableParallel
 
 load_dotenv()
 
-model1 = ChatOpenAI()
+model1 = ChatOpenAI() 
 
 model2 = ChatAnthropic(model_name='claude-3-7-sonnet-20250219')
 

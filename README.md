@@ -1,5 +1,5 @@
 A collection of beginner-friendly LangChain projects demonstrating different chain architectures using the LangChain Expression Language (LCEL)     
-     
+
 📌 Overview
 
 This repository contains practical implementations of common LangChain chain patterns:

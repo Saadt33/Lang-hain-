@@ -15,7 +15,7 @@ These examples showcase how to build AI workflows using prompts, language models
 
 🚀 Technologies Used
 
-- Python
+- Python 
 - LangChain
 - OpenAI GPT Models
 - Anthropic Claude Models
